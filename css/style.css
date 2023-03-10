@@ -37,15 +37,8 @@ p {
 
 iframe {
   width: 80%;
+  margin-left: 10%;
   margin-top: 30px;
   margin-bottom: 5%;
   background-color: #b5838d;
-}
-
-#yellow {
-  background-color: #6d6875;
-  padding: 20px;
-  width: 80%;
-  margin-left: 10%;
-  margin-bottom: 30px;
 }

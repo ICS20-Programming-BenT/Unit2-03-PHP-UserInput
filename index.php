@@ -3,7 +3,7 @@
   <head>
     <!-- Meta data -->
     <meta charset="utf-8">
-    <meta name="description" content="User Input with JavaScript">
+    <meta name="description" content="User Input with PHP">
     <meta name="keywords" content="Immaculata, ICS2O">
     <meta name="author" content="Ben Thomson">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="./css/style.css">
 
     <!-- Web page title -->
-    <title>User Input with JavaScript</title>
+    <title>User Input with PHP</title>
   </head>
   </head>
   <body>
